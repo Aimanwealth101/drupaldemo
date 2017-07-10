@@ -12,6 +12,3 @@ This project provides examples for Drupal 8 modules. Each demo module covers a s
 - Events (demo_event)
 - Plugins (demo_plugin)
 
-Wizzlern created this demo project while preparing for our Drupal 8 development training. More info (in Dutch) can be found at: http://wizzlern.nl/training
-
-Get the latest version of this project at: https://github.com/wizzlern/drupal8-demo.
